@@ -8,7 +8,7 @@ import NotFound from "./components/NotFound";
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to React Router</h1>
+      <h1 className="WelcomeText">Welcome to React Router</h1>
       <BrowserRouter>
         <Link to="/">Home</Link> <Link to="/about">About</Link>{" "}
         <Link to="/contact">Contact</Link>{" "}

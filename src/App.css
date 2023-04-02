@@ -1,3 +1,9 @@
+.WelcomeText {
+  width: auto;
+  padding: 25px;
+  background-color: black;
+  color: white;
+}
 .App {
   text-align: center;
 }
